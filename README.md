@@ -7,7 +7,7 @@
 Building thoughtful, functional digital products — where design and engineering meet.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-salise.design-000000?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://salise.design)
-[![X](https://img.shields.io/badge/X-%40salisedesign-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/salisestudio)
+[![X](https://img.shields.io/badge/X-%40salisestudio-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/salisestudio)
 
 </div>
 
