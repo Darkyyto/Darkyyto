@@ -1,36 +1,42 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Salise — designer & developer" src="assets/header-light.svg" width="100%">
+</picture>
 
-# Salise
+<p align="center">
+  <a href="https://salise.design"><b>salise.design</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/salisestudio">@salisestudio</a>
+</p>
 
-**Designer & Developer**
+<br>
 
-Building thoughtful, functional digital products — where design and engineering meet.
+I design and build products end to end: the interface, the interaction and the code that ships it.
+I care about the details people feel but rarely notice — motion, type, spacing, speed.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-salise.design-000000?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://salise.design)
-[![X](https://img.shields.io/badge/X-%40salisestudio-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/salisestudio)
+<br>
 
-</div>
+## Now building
 
-<br/>
+<a href="https://github.com/Darkyyto/studykit">
+  <img src="https://raw.githubusercontent.com/Darkyyto/studykit/main/docs/banner.png" alt="FocusKit" width="100%">
+</a>
 
-### About
+**[FocusKit](https://github.com/Darkyyto/studykit)** — a calm companion that lives in your Mac's notch.
+Focus sessions, lecture notes that turn into flashcards, music and calendar at a glance. Native SwiftUI, fully on device.
 
-I design and build web products end-to-end — from interface and interaction design to production-ready front-end and back-end code. Based in Italy.
+<br>
 
-### Stack
+## Toolkit
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,ts,react,nextjs,nodejs,tailwind,figma&theme=dark" alt="Swift, TypeScript, React, Next.js, Node.js, Tailwind, Figma" height="44">
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+| Design | Apple platforms | Web |
+| :-- | :-- | :-- |
+| Interfaces, motion, branding | Swift, SwiftUI, AppKit | TypeScript, React, Next.js, Node.js |
 
-</div>
+<br>
 
-<br/>
-
-<div align="center">
-<sub><a href="https://salise.design">salise.design</a> · <a href="https://x.com/salisedesign">@salisedesign</a></sub>
-</div>
+<p align="center"><sub>Made with care in Italy · <a href="https://salise.design">salise.design</a></sub></p>

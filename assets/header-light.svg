@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+  <defs>
+    <radialGradient id="light" cx="960" cy="200" r="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.0"/>
+      <stop offset="0" stop-color="#000000" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111113" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#111113" stop-opacity="0.55"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="400" rx="24"/></clipPath>
+    <style>
+      .t { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", "Segoe UI", Helvetica, Arial, sans-serif; }
+      .m { font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="#F7F6F3"/>
+    <rect width="1200" height="400" fill="url(#light)"/>
+    <circle cx="960" cy="200" r="56" fill="none" stroke="#000000" stroke-opacity="0.16"/><circle cx="960" cy="200" r="96" fill="none" stroke="#000000" stroke-opacity="0.11"/><circle cx="960" cy="200" r="136" fill="none" stroke="#000000" stroke-opacity="0.08"/><circle cx="960" cy="200" r="176" fill="none" stroke="#000000" stroke-opacity="0.05"/><circle cx="960" cy="200" r="216" fill="none" stroke="#000000" stroke-opacity="0.03"/>
+    <circle cx="960" cy="200" r="22" fill="url(#core)"/>
+    <g>
+      <circle cx="1056" cy="200" r="4" fill="#111113"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 960 200" to="360 960 200" dur="24s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="960" cy="64" r="2.5" fill="#111113" fill-opacity="0.6"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 960 200" to="-360 960 200" dur="48s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="399" rx="23.5" fill="none" stroke="#000000" stroke-opacity="0.08"/>
+
+  <text class="m" x="80" y="112" font-size="13" letter-spacing="3" fill="#6B6A72">SALISE STUDIO</text>
+  <text class="t" x="76" y="214" font-size="104" font-weight="600" letter-spacing="-4.5" fill="#111113">Salise</text>
+  <text class="t" x="80" y="262" font-size="22" fill="#6B6A72">Calm, thoughtful software — designed and built end to end.</text>
+
+  <line x1="80" y1="318" x2="1120" y2="318" stroke="#000000" stroke-opacity="0.08"/>
+  <text class="m" x="80" y="350" font-size="12" letter-spacing="2" fill="#6B6A72">DESIGN · ENGINEERING · PRODUCT</text>
+  <text class="m" x="1120" y="350" font-size="12" letter-spacing="2" fill="#6B6A72" text-anchor="end">SALISE.DESIGN</text>
+</svg>
