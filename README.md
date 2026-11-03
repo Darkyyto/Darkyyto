@@ -19,7 +19,10 @@ I care about the details people feel but rarely notice — motion, type, spacing
 ## Now building
 
 <a href="https://github.com/Darkyyto/studykit">
-  <img src="https://raw.githubusercontent.com/Darkyyto/studykit/main/docs/banner.png" alt="FocusKit" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darkyyto/studykit/main/docs/banner-dark.png">
+    <img src="https://raw.githubusercontent.com/Darkyyto/studykit/main/docs/banner-light.png" alt="FocusKit" width="100%">
+  </picture>
 </a>
 
 **[FocusKit](https://github.com/Darkyyto/studykit)** — a calm companion that lives in your Mac's notch.
