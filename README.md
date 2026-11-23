@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Salise — designer & developer" src="assets/header-light.svg" width="100%">
+  <img alt="Salise, designer and developer" src="assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -9,24 +9,37 @@
   <a href="https://x.com/salisestudio">@salisestudio</a>
 </p>
 
+<p align="center">
+  I design and build products end to end: the interface, the interaction and the code that ships it.<br>
+  I care about the details people feel but rarely notice: motion, type, spacing, speed.
+</p>
+
 <br>
 
-I design and build products end to end: the interface, the interaction and the code that ships it.
-I care about the details people feel but rarely notice — motion, type, spacing, speed.
+## Apps
 
-<br>
+Two small Mac apps. Native, fast, and nothing leaves your Mac.
 
-## Now building
-
-<a href="https://github.com/Darkyyto/shima.app">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darkyyto/shima.app/main/docs/banner-dark.png">
-    <img src="https://raw.githubusercontent.com/Darkyyto/shima.app/main/docs/banner-light.png" alt="Shima" width="100%">
-  </picture>
-</a>
-
-**[Shima](https://github.com/Darkyyto/shima.app)** — your Mac's notch, put to work.
-A timer, the song playing, your calendar, files and what you copied last, one move of the pointer away. Native SwiftUI, nothing leaves your Mac.
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Darkyyto/shima.app">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/shima-dark.svg">
+          <img alt="Shima, your Mac's notch put to work" src="assets/shima-light.svg" width="100%">
+        </picture>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Darkyyto/kumo.app">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/kumo-dark.svg">
+          <img alt="Kumo, lectures written down as they happen" src="assets/kumo-light.svg" width="100%">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
